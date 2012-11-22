@@ -1,4 +1,7 @@
-ARM
-===
+#include<stdio.h>
+int main()
+{
 
-embeded
+    printf("hello,world!!!");
+    return 0;
+}
